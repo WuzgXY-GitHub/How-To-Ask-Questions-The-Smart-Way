@@ -24,7 +24,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
   * [简介](#简介)
   * [在提问之前](#在提问之前)
   * [当你提问时](#当你提问时)
-    * [慎选提问的论坛](#慎选提问的论坛)
+    * [慎选提、问的论坛](#慎选提、问的论坛)
     * [Stack Overflow](#stack-overflow)
     * [网站和 IRC 论坛](#网站和-irc-论坛)
     * [第二步，使用项目邮件列表](#第二步使用项目邮件列表)
@@ -121,7 +121,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 ## 当你提问时
 
-### 慎选提问的论坛
+### 慎选提、问的论坛
 
 小心选择你要提问的场合。如果你做了下述的事情，你很可能被忽略掉或者被看作失败者：
 
